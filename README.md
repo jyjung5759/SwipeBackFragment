@@ -1,4 +1,5 @@
 # SwipeBackFragment
+
 An Android library that can finish a Fragment&amp;Activity with swipe-back gesture.
 
 滑动Fragment&Activity边缘即可类似IOS一样，拖动返回。
