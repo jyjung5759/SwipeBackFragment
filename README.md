@@ -1,7 +1,6 @@
 # SwipeBackFragment
 
 An Android library that can finish a Fragment&amp;Activity with swipe-back gesture.
-
 滑动Fragment&Activity边缘即可类似IOS一样，拖动返回。
 
 原理分析：[传送门](http://www.jianshu.com/p/626229ca4dc2),  如果你重度使用Fragment，不妨看看这个库[Fragmentation](https://github.com/YoKeyword/Fragmentation)
