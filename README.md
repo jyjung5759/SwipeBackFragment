@@ -12,7 +12,6 @@ An Android library that can finish a Fragment&amp;Activity with swipe-back gestu
 1. Activity内Fragment数大于1时，滑动返回的是Fragment，否则滑动返回的是Activity
 
 2. 支持左、右、左&右滑动（未来可能会增加更多滑动区域）
-
 3、支持Swipe时的滑动监听
 
 4、帮你处理了Fragment重叠的情况
