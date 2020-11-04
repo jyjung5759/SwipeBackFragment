@@ -13,7 +13,6 @@ An Android library that can finish a Fragment&amp;Activity with swipe-back gestu
 
 2. 支持左、右、左&右滑动（未来可能会增加更多滑动区域）
 
-
 3、支持Swipe时的滑动监听
 
 4、帮你处理了Fragment重叠的情况
@@ -90,4 +89,6 @@ public class SwipeBackSampleFragment extends SwipeBackFragment {
 
 # 致谢
 [ikew0ng/SwipeBackLayout](https://github.com/ikew0ng/SwipeBackLayout)
+
+
 
